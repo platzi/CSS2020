@@ -167,6 +167,17 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [CSS Writing Modes (By Jen Simmons in 2016)](https://24ways.org/2016/css-writing-modes/)
+  
+  **Reto:**
+  
+  * [Modos de escritura](https://codepen.io/teffcode_/pen/YzGZGNw?editors=1100)
+  
+  **Documentación en español para el reto:**
+  
+  * [Propiedad direction](https://developer.mozilla.org/es/docs/Web/CSS/direction)
+  * [Propiedad writing-mode](https://developer.mozilla.org/es/docs/Web/CSS/writing-mode)
+  
+  > Recuerda mostrarnos en los comentarios cualquier cosita que hagas :D Así, todos podemos aprender de todos !
 </details>
 
 ## 11. Propiedades físicas y lógicas en CSS + Quíz
@@ -177,6 +188,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [CSS Logical Properties (by Estefany Aguilar in 2019)](https://ultimatecourses.com/blog/css-logical-properties)
+  * [Quíz de la clase](https://gist.github.com/teffcode/a693b0ffc907c7b0745d0f9d7d711cfd)
 </details>
 
 ## 12. Técnicas de alineamiento con Flexbox
