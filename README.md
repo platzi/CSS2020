@@ -18,7 +18,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 7. [Técnicas de alineamiento antes de CSS Grid (Parte 1)](#7-técnicas-de-alineamiento-antes-de-css-grid-parte-1)
 8. [Técnicas de alineamiento antes de CSS Grid (Parte 2)](#8-técnicas-de-alineamiento-antes-de-css-grid-parte-2)
 9. [Pros y contras de las técnicas de alineamiento antes de CSS Grid](#9-pros-y-contras-de-las-técnicas-de-alineamiento-antes-de-css-grid)
-10. [Modos de escritura y ejes de alineamiento + Reto](#10-10-modos-de-escritura-y-ejes-de-alineamiento--reto)
+10. [Modos de escritura y ejes de alineamiento + Reto](#10-modos-de-escritura-y-ejes-de-alineamiento--reto)
 11. [Propiedades físicas y lógicas en CSS + Quíz](#11-propiedades-físicas-y-lógicas-en-css--quíz)
 12. [Técnicas de alineamiento con Flexbox](#12-técnicas-de-alineamiento-con-flexbox)
 13. [Dibujemos con CSS + Reto](#13-dibujemos-con-css--reto)
@@ -44,8 +44,18 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
+  
   <br/>
+  
+  * [Guía para aprender CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+  * [Quíces de JS y CSS para que repases conceptos](https://gist.github.com/teffcode)
+  
+    
+  **Cursos Recomendados:**
+  
+  * [Curso de Frontend Developer](https://platzi.com/clases/frontend-developer/)
+  * [Curso Definitivo de HTML y CSS](https://platzi.com/clases/html-css/)
+  
 </details>
 
 ## 2. ¿Cómo fue pensado CSS cuando se creó?
@@ -62,6 +72,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [The Noodle incident](https://www.thenoodleincident.com/tutorials/box_lesson/boxes.html)
+  * [Columnas Falsas](https://alistapart.com/article/fauxcolumns/)
+  * [Propuesta de Responsive Design](https://alistapart.com/article/responsive-web-design/)
+  * [Código de las cards flotantes](https://github.com/abookapart/new-css-layout-code/blob/master/chapter1/float3.html)
 </details>
 
 ## 4. Herramientas que nos han facilitado el camino
@@ -78,6 +93,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
+  * [CSS Advanced Layout Module (2007)](https://www.w3.org/TR/2007/WD-css3-layout-20070809/)
+  * [Giving Content Priority with CSS3 Grid Layout (By Rachel Andrew in 2012)](https://24ways.org/2012/css3-grid-layout/)
+  * [Establishing Web Standards](https://medium.com/net-magazine/establishing-web-standards-12f7f4308982)
 </details>
 
 ## 6. ¿Qué significa Grid para CSS?
@@ -86,6 +106,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [The Story of CSS Grid, from Its Creators](t.ly/lph3)
 </details>
 
 ## 7. Técnicas de alineamiento antes de CSS Grid (Parte 1)
@@ -94,6 +116,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Alinear elementos de bloque en CSS3 (2016)](https://www.wextensible.com/temas/css3-alinear/block.html)
 </details>
 
 ## 8. Técnicas de alineamiento antes de CSS Grid (Parte 2)
@@ -102,6 +126,9 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Alinear elementos de bloque en CSS3 (2016)](https://www.wextensible.com/temas/css3-alinear/block.html)
+  * [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 </details>
 
 ## 9. Pros y contras de las técnicas de alineamiento antes de CSS Grid
@@ -110,6 +137,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Alinear elementos de bloque en CSS3 (2016)](https://www.wextensible.com/temas/css3-alinear/block.html)
 </details>
 
 ## 10. Modos de escritura y ejes de alineamiento + Reto
@@ -118,6 +147,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [CSS Writing Modes (By Jen Simmons in 2016)](https://24ways.org/2016/css-writing-modes/)
 </details>
 
 ## 11. Propiedades físicas y lógicas en CSS + Quíz
@@ -126,6 +157,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [CSS Logical Properties (by Estefany Aguilar in 2019)](https://ultimatecourses.com/blog/css-logical-properties)
 </details>
 
 ## 12. Técnicas de alineamiento con Flexbox
@@ -134,6 +167,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 </details>
 
 ## 13. Dibujemos con CSS + Reto
