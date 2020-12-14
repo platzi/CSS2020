@@ -117,7 +117,16 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
   <br/>
   
+  **Documentación:**
+  
   * [Alinear elementos de bloque en CSS3 (2016)](https://www.wextensible.com/temas/css3-alinear/block.html)
+  
+  **Código:**
+  
+  * [Alignment techniques · margin · initial](https://codepen.io/teffcode_/pen/YzGNOgQ)
+  * [Alignment techniques · margin · final](https://codepen.io/teffcode_/pen/oNzBPVB)
+  * [Alignment techniques · line-height · initial](https://codepen.io/teffcode_/pen/JjREaVK?editors=1100)
+  * [Alignment techniques · line-height · final](https://codepen.io/teffcode_/pen/ExgZeJV?editors=1100)
 </details>
 
 ## 8. Técnicas de alineamiento antes de CSS Grid (Parte 2)
@@ -127,8 +136,17 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
   <br/>
   
+  **Documentación:**
+  
   * [Alinear elementos de bloque en CSS3 (2016)](https://www.wextensible.com/temas/css3-alinear/block.html)
   * [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+  
+  **Código:**
+  
+  * [Alignment techniques · table-cell · initial](https://codepen.io/teffcode_/pen/MWjJqdM?editors=1100)
+  * [Alignment techniques · table-cell · final](https://codepen.io/teffcode_/pen/oNzBPRB)
+  * [Alignment techniques · positions · initial](https://codepen.io/teffcode_/pen/bGwgxXm)
+  * [Alignment techniques · positions · final](https://codepen.io/teffcode_/pen/gOwgdVe?editors=1100)
 </details>
 
 ## 9. Pros y contras de las técnicas de alineamiento antes de CSS Grid
@@ -168,7 +186,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
   <br/>
   
+  **Documentación:**
+  
   [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  
+  **Código:**
+  
+  * [Alignment techniques · Flexbox · inital](https://codepen.io/teffcode_/pen/mdrRzJX?editors=1100)
+  * [Alignment techniques · Flexbox · final](https://codepen.io/teffcode_/pen/dypNgoR)
 </details>
 
 ## 13. Dibujemos con CSS + Reto
@@ -177,6 +202,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Código:**
+  
+  * [Dibujemos con CSS · final](https://codepen.io/teffcode_/pen/YzGNJyE)
 </details>
 
 ## 14. Grid y las relaciones padre e hijos inmediatos + Quíz
