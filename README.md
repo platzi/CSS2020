@@ -215,9 +215,22 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
   <br/>
   
+  **Inspiración:**
+  
+  * [A single div](https://a.singlediv.com/)
+  * [No tengas miedo a dibujar con CSS](https://dev.to/raulmar/no-tengas-miedo-a-dibujar-con-css-1ck)
+  * [dotCSS 2016 - Wenting Zhang - Make CSS your secret super drawing tool](https://www.youtube.com/watch?v=Y0_FMCji3iE&ab_channel=dotconferences)
+  
   **Código:**
   
   * [Dibujemos con CSS · final](https://codepen.io/teffcode_/pen/YzGNJyE)
+  
+  **Reto:**
+  
+  * [Dibujarte CSS · Sitio Web](https://dibujartecss.musarte.dev/)
+  * [Dibujarte CSS · Repo para que puedas hacer PR con tu dibujito](https://github.com/musartedev/dibujarte-css)
+  
+  > No se te olvide compartir en los comentarios tu dibujo !!!
 </details>
 
 ## 14. Grid y las relaciones padre e hijos inmediatos + Quíz
