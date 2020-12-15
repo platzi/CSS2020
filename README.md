@@ -49,6 +49,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   
   * [Guía para aprender CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
   * [Quíces de JS y CSS para que repases conceptos](https://gist.github.com/teffcode)
+  * [Qué es Platzi Master](https://platzi.com/blog/que-es-platzi-master/)
   
     
   **Cursos Recomendados:**
@@ -239,6 +240,9 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co/)
+  * [Solución del quíz](https://codepen.io/teffcode_/pen/BaLWLOJ?editors=1000)
 </details>
 
 ## 15. Lines, tracks, cell, area, gutters, grid axis, grid row, grid column + Reto
@@ -263,6 +267,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/)
 </details>
 
 ## 18. Creando filas, columnas y espaciado + Reto
@@ -271,6 +277,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Código:**
+  
+  * [Creación de filas y columnas](https://codepen.io/teffcode_/pen/mdrJqGg)
 </details>
 
 ## 19. Alineamiento + Quíz
@@ -279,6 +289,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Documentación:**
+  
+  * [CSS Grid: Justification and Alignment](https://www.digitalocean.com/community/tutorials/css-align-justify)
+  
+  **Código:**
+  
+  * [Alineamiento](https://codepen.io/teffcode_/pen/RwGaZoe)
 </details>
 
 ## 20. Generación automática de tracks + Quíz
@@ -287,6 +305,13 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
+  
+  **Fuente de los diseños mostrados en la clase:**
+  
+  * [Una nueva imagen para la Ópera de Saint Etienne](https://brandemia.org/una-nueva-imagen-para-la-opera-de-saint-etienne)
+  * [Sceumorphic UI](https://dribbble.com/shots/10856261-Sceumorphic-UI)
 </details>
 
 ## 21. Funciones: repeat(), minmax() y fit-content() + Quíz
@@ -295,6 +320,15 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Documentación:**
+  
+  * [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+  * [A Deep Dive Into CSS Grid minmax()](https://ishadeed.com/article/css-grid-minmax/)
+  
+  **Código:**
+  
+  * [minmax()](https://codepen.io/teffcode_/pen/dypMVQo?editors=1100)
 </details>
 
 ## 22. ¡Manos al código! Fase de construcción de la grid principal de nuestro proyecto
@@ -311,6 +345,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Fuente del diseño mostrado en la clase:**
+  
+  * [Photo social app, continuation of previous style](https://dribbble.com/shots/7050067-Photo-social-app-continuation-of-previous-style?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Photo+social+app%2C+continuation+of+previous+style&utm_medium=Social_Share)
 </details>
 
 ## 24. Alineamiento + Quíz
@@ -319,6 +357,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Código:**
+  
+  * [Ubicación](https://codepen.io/teffcode_/pen/vYXGWNg?editors=1100)
 </details>
 
 ## 25. ¡Manos al código! Fase de ubicación y alineamiento (Parte 1)
