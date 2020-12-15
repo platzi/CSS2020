@@ -224,6 +224,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   
   **Código:**
   
+  * [Ilustración utilizada](https://gigantic.store/gigantic-flat-design-illustration-bundle-2/)
   * [Dibujemos con CSS · final](https://codepen.io/teffcode_/pen/YzGNJyE)
   
   **Reto:**
@@ -259,6 +260,28 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Inspiración:**
+  
+  * [Deconstruction Poster Design Collection](https://www.zekagraphic.com/portfolio/deconstruction/)
+  * [3 ways to experiment with latest UI trend—asymmetrical grids & layouts](https://dribbble.com/stories/2020/02/05/asymmetrical-layouts-ui-design?utm_campaign=2020-02-18&utm_medium=email&utm_source=courtside-20200218)
+  * [Cure unique nail wax boutique](https://www.awwwards.com/sites/cure-unique-nail-wax-boutique)
+  
+  **Imágenes Gratis:**
+  
+  * [Pexels](https://www.pexels.com/)
+  * [Pixabay](https://pixabay.com/es/)
+  * [Freepik](https://www.freepik.es/fotos-populares)
+  
+  **Fuentes:**
+  
+  * [Google Fonts](https://fonts.google.com/)
+  
+  **Colores:**
+  
+  * [Color Hunt](https://colorhunt.co/)
+  * [My Color Space](https://mycolor.space/gradient?ori=to+top&hex=%23051937&hex2=%23A8EB12&sub=1)
+  * [HTML Color Codes](https://htmlcolorcodes.com/color-names/)
 </details>
 
 ## 17. Creando nuestro contenedor: ¿display: grid o display: inline-grid?
