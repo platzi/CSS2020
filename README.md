@@ -404,7 +404,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
   <br/>
   
-  * [Código](https://codepen.io/teffcode_/pen/XWjMLwq)
+  * [Código para iniciar](https://codepen.io/teffcode_/pen/XWjMLwq?editors=1100)
+  * [Código final](https://codepen.io/teffcode_/pen/yLabgPV?editors=1100)
 </details>
 
 ## 27. Diseño responsivo sin media queries + Reto
