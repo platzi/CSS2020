@@ -37,8 +37,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 26. [¡Manos al código! Fase de ubicación y alineamiento (Parte 2)](#26-manos-al-código-fase-de-ubicación-y-alineamiento-parte-2)
 27. [Diseño responsivo sin media queries + Reto](#27-diseño-responsivo-sin-media-queries--reto)
 28. [Accesibilidad: La propiedad order](#28-accesibilidad-la-propiedad-order)
-29. [¡Manos al código! Fase de diseño responsivo](#29-manos-al-código-fase-de-diseño-responsivo)
-30. [¿Vendrá algo más para esta especificación?](#30-vendrá-algo-más-para-esta-especificación)
+29. [¿Vendrá algo más para esta especificación?](#29-vendrá-algo-más-para-esta-especificación)
 
 ## 1. Tips para que lleves tus conocimientos de CSS a otro nivel + Quices
 
@@ -422,17 +421,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 29. ¡Manos al código! Fase de diseño responsivo
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-  
-  * [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
-</details>
-
-## 30. ¿Vendrá algo más para esta especificación?
+## 29. ¿Vendrá algo más para esta especificación?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
