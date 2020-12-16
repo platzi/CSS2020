@@ -359,6 +359,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Código](https://codepen.io/teffcode_/pen/BaLWgEj?editors=1100)
 </details>
 
 ## 23. Ubicación + Reto
@@ -391,6 +393,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Código](https://codepen.io/teffcode_/pen/poEeXmr)
 </details>
 
 ## 26. ¡Manos al código! Fase de ubicación y alineamiento (Parte 2)
@@ -399,6 +403,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Código](https://codepen.io/teffcode_/pen/XWjMLwq)
 </details>
 
 ## 27. Diseño responsivo sin media queries + Reto
