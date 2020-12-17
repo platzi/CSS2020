@@ -577,6 +577,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [TENDENCIAS EN DISEÑO WEB PARA 2020](https://www.callibree.com/tendencias-en-diseno-web-para-2020/)
+  * [Travel User Interface](https://dribbble.com/shots/2473268-Travel-User-Interface)
+  * [Cards](https://co.pinterest.com/pin/295478425557557759/)
+  * [UI exploration for Workfy](https://dribbble.com/shots/9980757-UI-exploration-for-Workfy?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=UI+exploration+for+Workfy&utm_medium=Social_Share)
 </details>
 
 ## 12. ¿Qué son los Modern CSS Layouts?
