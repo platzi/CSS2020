@@ -640,6 +640,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [Design System Shopify](https://polaris.shopify.com/design/polaris-is-changing)
+  * [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6)
+  * [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+  * [Design Systems Gallery](https://designsystemsrepo.com/design-systems/)
+  * [Space, Grids, and Layouts](https://www.designsystems.com/)
+  * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969#:~:text=What%20is%20a%20Design%20System%3F&text=A%20Design%20System%20is%20the,tools%20and%20the%20new%20technologies.)
 </details>
 
 ## 18. Tendencias de diseño UI/UX: Fase de inspiración y creatividad
