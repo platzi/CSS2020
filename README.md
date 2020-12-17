@@ -445,34 +445,33 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 2. [La importancia de recordar las herramientas existentes](#2-la-importancia-de-recordar-las-herramientas-existentes)
 3. [Flujo normal del documento: Display block, inline e inline-block](#3-flujo-normal-del-documento-display-block-inline-e-inline-block)
 4. [Contextos de formato: Formato de Contexto de Bloque (BFC)](#4-contextos-de-formato-formato-de-contexto-de-bloque-bfc)
-5. [Flotantes y Posicionamiento](#5-flotantes-y-posicionamiento)
-6. [Reto: Querido diario](#6-reto-querido-diario)
-7. [Diferencias entre Flexbox y CSS Grid](#7-diferencias-entre-flexbox-y-css-grid)
-8. [Similitudes entre Flexbox y CSS Grid](#8-similitudes-entre-flexbox-y-css-grid)
-9. [¿Puedo trabajar con Flexbox y CSS Grid al tiempo?](#9-puedo-trabajar-con-flexbox-y-css-grid-al-tiempo)
-10. [Dinámica: ¿Qué usarías? (Parte 1)](#10-dinámica-qué-usarías-parte-1)
-11. [Dinámica: ¿Qué usarías? (Parte 2) + Reto](#11-dinámica-qué-usarías-parte-2--reto)
-12. [¿Cuándo usar Flexbox y cuándo usar CSS Grid?](#12-cuándo-usar-flexbox-y-cuándo-usar-css-grid)
-13. [¿Qué son los Modern CSS Layouts?](#13-qué-son-los-modern-css-layouts)
-14. [Patrones para usar como punto de partida](#14-patrones-para-usar-como-punto-de-partida)
-15. [Layouts: Super Centered, The Deconstructed Pancake, Sidebar Says, Pancake Stack, Classic Holy Grail Layout](#15-layouts-super-centered-the-deconstructed-pancake-sidebar-says-pancake-stack-classic-holy-grail-layout)
-16. [Layouts: 12-Span Grid, RAM (Repeat, Auto, MinMax), Line Up, Clamping My Style, Respect for Aspect](#16-layouts-12-span-grid-ram-repeat-auto-minmax-line-up-clamping-my-style-respect-for-aspect)
-17. [Dinámica: No puedo dejar de ver](#17-dinámica-no-puedo-dejar-de-ver)
-18. [Design System y detalles visuales a tener en cuenta](#18-design-system-y-detalles-visuales-a-tener-en-cuenta)
-19. [Tendencias de diseño UI/UX: Fase de inspiración y creatividad](#19-tendencias-de-diseño-uiux-fase-de-inspiración-y-creatividad)
-20. [Wireframes y comunicación visual simple, intuitiva y atractiva](#20-wireframes-y-comunicación-visual-simple-intuitiva-y-atractiva)
-21. [Figma para devs: Creación de componentes y Auto Layout (Parte 1)](#21-figma-para-devs-creación-de-componentes-y-auto-layout-parte-1))
-22. [Figma para devs: Creación de componentes y Auto Layout (Parte 2)](#22-figma-para-devs-creación-de-componentes-y-auto-layout-parte-2)
-23. [Primeros pasos y estructura inicial](#23-primeros-pasos-y-estructura-inicial)
-24. [Ubicación y creación de elementos (Parte 1)](#24-ubicación-y-creación-de-elementos-parte-1)
-25. [Ubicación y creación de elementos (Parte 2)](#25-ubicación-y-creación-de-elementos-parte-2)
-26. [Entendiendo las versiones de CSS. ¿Existirá CSS4?](#26-entendiendo-las-versiones-de-css-existirá-css4)
-27. [CSS Subgrid](#27-css-subgrid)
-28. [Display: contents](#28-display-contents)
-29. [Native CSS Massonry Layout](#29-native-css-massonry-layout)
-30. [CSS feature queries: @supports](#30-css-feature-queries-supports)
-31. [Estilos en las áreas, formas no rectangulares y otras especificaciones](#31-estilos-en-las-áreas-formas-no-rectangulares-y-otras-especificaciones)
-32. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#32-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
+5. [Posicionamiento + Dinámica: ¿Cómo se vería?](#5-posicionamiento--dinámica-cómo-se-vería)
+6. [Diferencias entre Flexbox y CSS Grid](#7-diferencias-entre-flexbox-y-css-grid)
+7. [Similitudes entre Flexbox y CSS Grid](#8-similitudes-entre-flexbox-y-css-grid)
+8. [¿Puedo trabajar con Flexbox y CSS Grid al tiempo?](#9-puedo-trabajar-con-flexbox-y-css-grid-al-tiempo)
+9. [Dinámica: ¿Qué usarías? (Parte 1)](#10-dinámica-qué-usarías-parte-1)
+10. [Dinámica: ¿Qué usarías? (Parte 2) + Reto](#11-dinámica-qué-usarías-parte-2--reto)
+11. [¿Cuándo usar Flexbox y cuándo usar CSS Grid?](#12-cuándo-usar-flexbox-y-cuándo-usar-css-grid)
+12. [¿Qué son los Modern CSS Layouts?](#13-qué-son-los-modern-css-layouts)
+13. [Patrones para usar como punto de partida](#14-patrones-para-usar-como-punto-de-partida)
+14. [Layouts: Super Centered, The Deconstructed Pancake, Sidebar Says, Pancake Stack, Classic Holy Grail Layout](#15-layouts-super-centered-the-deconstructed-pancake-sidebar-says-pancake-stack-classic-holy-grail-layout)
+15. [Layouts: 12-Span Grid, RAM (Repeat, Auto, MinMax), Line Up, Clamping My Style, Respect for Aspect](#16-layouts-12-span-grid-ram-repeat-auto-minmax-line-up-clamping-my-style-respect-for-aspect)
+16. [Dinámica: No puedo dejar de ver](#17-dinámica-no-puedo-dejar-de-ver)
+17. [Design System y detalles visuales a tener en cuenta](#18-design-system-y-detalles-visuales-a-tener-en-cuenta)
+18. [Tendencias de diseño UI/UX: Fase de inspiración y creatividad](#19-tendencias-de-diseño-uiux-fase-de-inspiración-y-creatividad)
+19. [Wireframes y comunicación visual simple, intuitiva y atractiva](#20-wireframes-y-comunicación-visual-simple-intuitiva-y-atractiva)
+20. [Figma para devs: Creación de componentes y Auto Layout (Parte 1)](#21-figma-para-devs-creación-de-componentes-y-auto-layout-parte-1))
+21. [Figma para devs: Creación de componentes y Auto Layout (Parte 2)](#22-figma-para-devs-creación-de-componentes-y-auto-layout-parte-2)
+22. [Primeros pasos y estructura inicial](#23-primeros-pasos-y-estructura-inicial)
+23. [Ubicación y creación de elementos (Parte 1)](#24-ubicación-y-creación-de-elementos-parte-1)
+24. [Ubicación y creación de elementos (Parte 2)](#25-ubicación-y-creación-de-elementos-parte-2)
+25. [Entendiendo las versiones de CSS. ¿Existirá CSS4?](#26-entendiendo-las-versiones-de-css-existirá-css4)
+26. [CSS Subgrid](#27-css-subgrid)
+27. [Display: contents](#28-display-contents)
+28. [Native CSS Massonry Layout](#29-native-css-massonry-layout)
+29. [CSS feature queries: @supports](#30-css-feature-queries-supports)
+30. [Estilos en las áreas, formas no rectangulares y otras especificaciones](#31-estilos-en-las-áreas-formas-no-rectangulares-y-otras-especificaciones)
+31. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#32-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
 
 ## 1. Todo sobre el diseño de páginas web acaba de cambiar
 
@@ -504,9 +503,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 </details>
 
-## 5. Flotantes y Posicionamiento
+## 5. Posicionamiento + Dinámica: ¿Cómo se vería?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -514,7 +515,20 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 6. Reto: Querido diario
+## 6. Diferencias entre Flexbox y CSS Grid
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [A Complete Guide to Flexbox | CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [Conceptos Básicos de flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox)
+  * [A Complete Guide to Grid | CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  * [CSS Grid Layout | MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout)
+</details>
+
+## 7. Similitudes entre Flexbox y CSS Grid
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -522,7 +536,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 7. Diferencias entre Flexbox y CSS Grid
+## 8. ¿Puedo trabajar con Flexbox y CSS Grid al tiempo?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -530,7 +544,34 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 8. Similitudes entre Flexbox y CSS Grid
+## 9. Dinámica: ¿Qué usarías? (Parte 1)
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  **Código:**
+  
+  * [App bar top](https://codepen.io/teffcode_/pen/MWKwdwX?editors=1100)
+  * [Dialog](https://codepen.io/teffcode_/pen/oNbXRyx?editors=1100)
+</details>
+
+## 10. Dinámica: ¿Qué usarías? (Parte 2) + Reto
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+   **Código:**
+  
+  * (Navigation Rail · Flexbox)[https://codepen.io/teffcode_/pen/pogJmmY]
+  * (Navigation Rail · CSS Grid)[https://codepen.io/teffcode_/pen/RwrPzrx]
+  * (List)[https://codepen.io/teffcode_/pen/BajNgKO]
+</details>
+
+## 11. ¿Cuándo usar Flexbox y cuándo usar CSS Grid?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -538,7 +579,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 9. ¿Puedo trabajar con Flexbox y CSS Grid al tiempo?
+## 12. ¿Qué son los Modern CSS Layouts?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -546,7 +587,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 10. Dinámica: ¿Qué usarías? (Parte 1)
+## 13. Patrones para usar como punto de partida
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -554,7 +595,79 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 11. Dinámica: ¿Qué usarías? (Parte 2) + Reto
+## 14. Layouts: Super Centered, The Deconstructed Pancake, Sidebar Says, Pancake Stack, Classic Holy Grail Layout
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [One line layouts](https://web.dev/one-line-layouts/)
+</details>
+
+## 15. Layouts: 12-Span Grid, RAM (Repeat, Auto, MinMax), Line Up, Clamping My Style, Respect for Aspect
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [One line layouts](https://web.dev/one-line-layouts/)
+</details>
+
+## 16. Dinámica: No puedo dejar de ver
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [Can't unsee](https://cantunsee.space/)
+</details>
+
+## 17. Design System y detalles visuales a tener en cuenta
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [Design System Shopify](https://polaris.shopify.com/design/polaris-is-changing)
+</details>
+
+## 18. Tendencias de diseño UI/UX: Fase de inspiración y creatividad
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [UX/UI Design Trends 2020 · Video](https://www.youtube.com/watch?v=Y5KCDWi7h9o&feature=youtu.be&ab_channel=Envato)
+</details>
+
+## 19. Wireframes y comunicación visual simple, intuitiva y atractiva
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [UI/UX design guide with terms, explanations, tips and trends](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914)
+</details>
+
+## 20. Figma para devs: Creación de componentes y Auto Layout (Parte 1)
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [Tweet · Figma Auto Layout](https://twitter.com/figmadesign/status/1329455521355730945)
+  * [Auto Layout · Video](https://www.youtube.com/watch?v=354CzVoFMS8&ab_channel=UXenEspa%C3%B1ol)
+  * [Office Hours: Auto Layout · Video](https://www.youtube.com/watch?v=u4K2m-3MmQQ&ab_channel=Figma)
+</details>
+
+## 21. Figma para devs: Creación de componentes y Auto Layout (Parte 2)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -562,7 +675,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 12. ¿Cuándo usar Flexbox y cuándo usar CSS Grid?
+## 22. Primeros pasos y estructura inicial
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -570,7 +683,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 13. ¿Qué son los Modern CSS Layouts?
+## 23. Ubicación y creación de elementos (Parte 1)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -578,7 +691,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 14. Patrones para usar como punto de partida
+## 24. Ubicación y creación de elementos (Parte 2)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -586,7 +699,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 15. Layouts: Super Centered, The Deconstructed Pancake, Sidebar Says, Pancake Stack, Classic Holy Grail Layout
+## 25. Entendiendo las versiones de CSS. ¿Existirá CSS4?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -594,7 +707,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 16. Layouts: 12-Span Grid, RAM (Repeat, Auto, MinMax), Line Up, Clamping My Style, Respect for Aspect
+## 26. CSS Subgrid
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -602,7 +715,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 17. Dinámica: No puedo dejar de ver
+## 27. Display: contents
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -610,7 +723,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 18. Design System y detalles visuales a tener en cuenta
+## 28. Native CSS Massonry Layout
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -618,7 +731,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 19. Tendencias de diseño UI/UX: Fase de inspiración y creatividad
+## 29. CSS feature queries: @supports
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -626,7 +739,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 20. Wireframes y comunicación visual simple, intuitiva y atractiva
+## 30. Estilos en las áreas, formas no rectangulares y otras especificaciones
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -634,95 +747,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 21. Figma para devs: Creación de componentes y Auto Layout (Parte 1)
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 22. Figma para devs: Creación de componentes y Auto Layout (Parte 2)
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 23. Primeros pasos y estructura inicial
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 24. Ubicación y creación de elementos (Parte 1)
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 25. Ubicación y creación de elementos (Parte 2)
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 26. Entendiendo las versiones de CSS. ¿Existirá CSS4?
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 27. CSS Subgrid
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 28. Display: contents
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 29. Native CSS Massonry Layout
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 30. CSS feature queries: @supports
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 31. Estilos en las áreas, formas no rectangulares y otras especificaciones
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 32. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
+## 31. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
