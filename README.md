@@ -542,6 +542,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Dog Lovers · Image](https://dribbble.com/shots/11956611-Dog-Lovers)
 </details>
 
 ## 9. Dinámica: ¿Qué usarías? (Parte 1)
