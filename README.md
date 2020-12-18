@@ -466,11 +466,9 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 23. [Ubicación y creación de elementos](#23-ubicación-y-creación-de-elementos)
 24. [Entendiendo las versiones de CSS. ¿Existirá CSS4?](#24-entendiendo-las-versiones-de-css-existirá-css4)
 25. [CSS Subgrid](#25-css-subgrid)
-26. [Display: contents](#26-display-contents)
-27. [Native CSS Massonry Layout](#27-native-css-massonry-layout)
-28. [CSS feature queries: @supports](#28-css-feature-queries-supports)
-29. [Estilos en las áreas, formas no rectangulares y otras especificaciones](#29-estilos-en-las-áreas-formas-no-rectangulares-y-otras-especificaciones)
-30. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#30-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
+26. [Native CSS Massonry Layout](#26-native-css-massonry-layout)
+27. [CSS feature queries: @supports](#27-css-feature-queries-supports)
+28. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#28-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
 
 ## 1. Todo sobre el diseño de páginas web acaba de cambiar
 
@@ -750,39 +748,28 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 26. Display: contents
+## 26. Native CSS Massonry Layout
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Native CSS Masonry Layout In CSS Grid](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
 </details>
 
-## 27. Native CSS Massonry Layout
+## 27. CSS feature queries: @supports
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+  * [Get Ready for `display: contents;`](https://css-tricks.com/get-ready-for-display-contents/)
 </details>
 
-## 28. CSS feature queries: @supports
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 29. Estilos en las áreas, formas no rectangulares y otras especificaciones
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 30. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
+## 28. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
