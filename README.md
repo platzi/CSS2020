@@ -645,6 +645,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Design Systems Gallery](https://designsystemsrepo.com/design-systems/)
   * [Space, Grids, and Layouts](https://www.designsystems.com/)
   * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969#:~:text=What%20is%20a%20Design%20System%3F&text=A%20Design%20System%20is%20the,tools%20and%20the%20new%20technologies.)
+  
+  **Tarea:**
+  
+  * [What are design tokens?](https://piccalil.li/tutorial/what-are-design-tokens/)
 </details>
 
 ## 18. Tendencias de diseño UI/UX: Fase de inspiración y creatividad
