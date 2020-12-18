@@ -460,18 +460,17 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 17. [Design System y detalles visuales a tener en cuenta](#18-design-system-y-detalles-visuales-a-tener-en-cuenta)
 18. [Tendencias de diseño UI/UX: Fase de inspiración y creatividad](#19-tendencias-de-diseño-uiux-fase-de-inspiración-y-creatividad)
 19. [Wireframes y comunicación visual simple, intuitiva y atractiva](#20-wireframes-y-comunicación-visual-simple-intuitiva-y-atractiva)
-20. [Figma para devs: Auto Layout y Neumorphism (Parte 1)](#20-figma-para-devs-auto-layout-y-neumorphism-parte-1))
+20. [Figma para devs: Auto Layout y Neumorphism (Parte 1)](#20-figma-para-devs-auto-layout-y-neumorphism-parte-1)
 21. [Figma para devs: Auto Layout y Neumorphism (Parte 2)](#21-figma-para-devs-auto-layout-y-neumorphism-parte-2)
 22. [Primeros pasos y estructura inicial](#22-primeros-pasos-y-estructura-inicial)
-23. [Ubicación y creación de elementos (Parte 1)](#23-ubicación-y-creación-de-elementos-parte-1)
-24. [Ubicación y creación de elementos (Parte 2)](#24-ubicación-y-creación-de-elementos-parte-2)
-25. [Entendiendo las versiones de CSS. ¿Existirá CSS4?](#25-entendiendo-las-versiones-de-css-existirá-css4)
-26. [CSS Subgrid](#26-css-subgrid)
-27. [Display: contents](#27-display-contents)
-28. [Native CSS Massonry Layout](#28-native-css-massonry-layout)
-29. [CSS feature queries: @supports](#29-css-feature-queries-supports)
-30. [Estilos en las áreas, formas no rectangulares y otras especificaciones](#30-estilos-en-las-áreas-formas-no-rectangulares-y-otras-especificaciones)
-31. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#31-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
+23. [Ubicación y creación de elementos](#23-ubicación-y-creación-de-elementos)
+24. [Entendiendo las versiones de CSS. ¿Existirá CSS4?](#24-entendiendo-las-versiones-de-css-existirá-css4)
+25. [CSS Subgrid](#25-css-subgrid)
+26. [Display: contents](#26-display-contents)
+27. [Native CSS Massonry Layout](#27-native-css-massonry-layout)
+28. [CSS feature queries: @supports](#28-css-feature-queries-supports)
+29. [Estilos en las áreas, formas no rectangulares y otras especificaciones](#29-estilos-en-las-áreas-formas-no-rectangulares-y-otras-especificaciones)
+30. [Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día](#30-nosotros-y-el-futuro-de-la-web-tips-para-seguir-aprendiendo-y-mantenerse-al-día)
 
 ## 1. Todo sobre el diseño de páginas web acaba de cambiar
 
@@ -724,7 +723,18 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 23. Ubicación y creación de elementos (Parte 1)
+## 23. Ubicación y creación de elementos
+
+<details>
+  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
+
+  <br/>
+  
+  * [Neumorphism initial](https://codepen.io/teffcode_/pen/OJRgNaE?editors=1100)
+  * [Neumorphism final](https://codepen.io/teffcode_/pen/rNMwePa)
+</details>
+
+## 24. Entendiendo las versiones de CSS. ¿Existirá CSS4?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -732,7 +742,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 24. Ubicación y creación de elementos (Parte 2)
+## 25. CSS Subgrid
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -740,7 +750,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 25. Entendiendo las versiones de CSS. ¿Existirá CSS4?
+## 26. Display: contents
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -748,7 +758,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 26. CSS Subgrid
+## 27. Native CSS Massonry Layout
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -756,7 +766,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 27. Display: contents
+## 28. CSS feature queries: @supports
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -764,7 +774,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 28. Native CSS Massonry Layout
+## 29. Estilos en las áreas, formas no rectangulares y otras especificaciones
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -772,23 +782,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
 </details>
 
-## 29. CSS feature queries: @supports
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 30. Estilos en las áreas, formas no rectangulares y otras especificaciones
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 31. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
+## 30. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
