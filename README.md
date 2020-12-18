@@ -460,8 +460,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 17. [Design System y detalles visuales a tener en cuenta](#18-design-system-y-detalles-visuales-a-tener-en-cuenta)
 18. [Tendencias de diseño UI/UX: Fase de inspiración y creatividad](#19-tendencias-de-diseño-uiux-fase-de-inspiración-y-creatividad)
 19. [Wireframes y comunicación visual simple, intuitiva y atractiva](#20-wireframes-y-comunicación-visual-simple-intuitiva-y-atractiva)
-20. [Figma para devs: Creación de componentes y Auto Layout (Parte 1)](#21-figma-para-devs-creación-de-componentes-y-auto-layout-parte-1))
-21. [Figma para devs: Creación de componentes y Auto Layout (Parte 2)](#22-figma-para-devs-creación-de-componentes-y-auto-layout-parte-2)
+20. [Figma para devs: Auto Layout y Neumorphism (Parte 1)](#21-figma-para-devs-auto-layout-y-neumorphism-parte-1))
+21. [Figma para devs: Auto Layout y Neumorphism (Parte 2)](#22-figma-para-devs-auto-layout-y-neumorphism-parte-2)
 22. [Primeros pasos y estructura inicial](#23-primeros-pasos-y-estructura-inicial)
 23. [Ubicación y creación de elementos (Parte 1)](#24-ubicación-y-creación-de-elementos-parte-1)
 24. [Ubicación y creación de elementos (Parte 2)](#25-ubicación-y-creación-de-elementos-parte-2)
@@ -678,7 +678,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Free online mockups](https://app.moqups.com/#)
 </details>
 
-## 20. Figma para devs: Creación de componentes y Auto Layout (Parte 1)
+## 20. Figma para devs: Auto Layout y Neumorphism (Parte 1)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -697,12 +697,23 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Inspiración para el diseño del reproductor de música](https://co.pinterest.com/pin/576671927272675751/)
 </details>
 
-## 21. Figma para devs: Creación de componentes y Auto Layout (Parte 2)
+## 21. Figma para devs: Auto Layout y Neumorphism (Parte 2)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Tweet · Figma Auto Layout](https://twitter.com/figmadesign/status/1329455521355730945)
+  * [Auto Layout · Video](https://www.youtube.com/watch?v=354CzVoFMS8&ab_channel=UXenEspa%C3%B1ol)
+  * [Office Hours: Auto Layout · Video](https://www.youtube.com/watch?v=u4K2m-3MmQQ&ab_channel=Figma)
+  * [Figma Community: el GitHub para l@s diseñador@es](https://www.uifrommars.com/figma-community-github-disenadores/?utm_source=uiFromMars%27+Astronauts&utm_campaign=c74c84681b-EMAIL_FIGMA-COMMUNITY_2020_10_16&utm_medium=email&utm_term=0_7ac156ca04-c74c84681b-116139761)
+  * [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
+  * [3 useful tips for designing neumorphic interfaces (soft UI)](https://dribbble.com/stories/2020/03/05/neumorphism-ui-tips)
+  * [Neumorphism the right way — A 2020 Design Trend](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a)
+  * [Figma](https://www.figma.com/)
+  * [Create dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
+  * [Inspiración para el diseño del reproductor de música](https://co.pinterest.com/pin/576671927272675751/)
 </details>
 
 ## 22. Primeros pasos y estructura inicial
