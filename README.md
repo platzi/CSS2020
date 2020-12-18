@@ -659,6 +659,12 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [UX/UI Design Trends 2020 · Video](https://www.youtube.com/watch?v=Y5KCDWi7h9o&feature=youtu.be&ab_channel=Envato)
+  * [Principios de diseño de UI](https://medium.com/17seven/ui-design-principles-c6e5e63690f0)
+  * [How I Use CSS Grid and Flexbox to Create a One-Page Website — Part 2](https://medium.com/better-programming/how-i-use-css-grid-and-flexbox-to-create-a-one-page-website-part-2-e575edb422fe)
+  * [Cómo Airbnb diseña para la confianza](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust?language=es#t-525681)
+  * [UX/UI Design Trends 2020](https://www.youtube.com/watch?v=Y5KCDWi7h9o&feature=youtu.be&ab_channel=Envato)
+  * [8 UI design trends for 2020](https://uxdesign.cc/8-ui-ux-design-trends-for-2020-68e37b0278f6)
+  * [100 lessons for the year to come](https://trends.uxdesign.cc/)
 </details>
 
 ## 19. Wireframes y comunicación visual simple, intuitiva y atractiva
