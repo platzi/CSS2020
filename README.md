@@ -36,8 +36,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 25. [¡Manos al código! Fase de ubicación y alineamiento (Parte 1)](#25-manos-al-código-fase-de-ubicación-y-alineamiento-parte-1))
 26. [¡Manos al código! Fase de ubicación y alineamiento (Parte 2)](#26-manos-al-código-fase-de-ubicación-y-alineamiento-parte-2)
 27. [Diseño responsivo sin media queries + Reto](#27-diseño-responsivo-sin-media-queries--reto)
-28. [Accesibilidad: La propiedad order](#28-accesibilidad-la-propiedad-order)
-29. [¿Vendrá algo más para esta especificación?](#29-vendrá-algo-más-para-esta-especificación)
+28. [¿Vendrá algo más para esta especificación?](#28-vendrá-algo-más-para-esta-especificación)
 
 ## 1. Tips para que lleves tus conocimientos de CSS a otro nivel + Quices
 
@@ -477,15 +476,7 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Ejemplo de Jen Simmons usando auto-fit (inspecciona el elemento main)](https://labs.jensimmons.com/2016/examples/spices-1.html)
 </details>
 
-## 28. Accesibilidad: La propiedad order
-
-<details>
-  <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
-
-  <br/>
-</details>
-
-## 29. ¿Vendrá algo más para esta especificación?
+## 28. ¿Vendrá algo más para esta especificación?
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
