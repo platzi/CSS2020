@@ -127,6 +127,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Alignment techniques · margin · final](https://codepen.io/teffcode_/pen/oNzBPVB)
   * [Alignment techniques · line-height · initial](https://codepen.io/teffcode_/pen/JjREaVK?editors=1100)
   * [Alignment techniques · line-height · final](https://codepen.io/teffcode_/pen/ExgZeJV?editors=1100)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/fdffyY9/IMG-2383-2.jpg" alt="alineamiento con Margin">
+  <img width="500" src="https://i.ibb.co/8PdF96S/IMG-2384-2.jpg" alt="alineamiento con Line Height">
 </details>
 
 ## 8. Técnicas de alineamiento antes de CSS Grid (Parte 2)
@@ -147,6 +152,11 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Alignment techniques · table-cell · final](https://codepen.io/teffcode_/pen/oNzBPRB)
   * [Alignment techniques · positions · initial](https://codepen.io/teffcode_/pen/bGwgxXm)
   * [Alignment techniques · positions · final](https://codepen.io/teffcode_/pen/gOwgdVe?editors=1100)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/9s9t8jZ/IMG-2385-2.jpg" alt="alineamiento con Table Cell">
+  <img width="500" src="https://i.ibb.co/BBn9cH4/IMG-2386-2.jpg" alt="alineamiento con Positions">
 </details>
 
 ## 9. Pros y contras de las técnicas de alineamiento antes de CSS Grid
@@ -206,6 +216,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   
   * [Alignment techniques · Flexbox · inital](https://codepen.io/teffcode_/pen/mdrRzJX?editors=1100)
   * [Alignment techniques · Flexbox · final](https://codepen.io/teffcode_/pen/dypNgoR)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/hH70cc8/IMG-2387-2.jpg" alt="alineamiento con Flexbox">
 </details>
 
 ## 13. Dibujemos con CSS + Reto
