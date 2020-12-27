@@ -56,6 +56,9 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Curso de Frontend Developer](https://platzi.com/clases/frontend-developer/)
   * [Curso Definitivo de HTML y CSS](https://platzi.com/clases/html-css/)
   
+  **Apuntes de la clase:**
+  <br/>
+  <img width="500" src="https://i.ibb.co/WsnhN20/IMG-2399.jpg" alt="notas clase 1">
 </details>
 
 ## 2. ¿Cómo fue pensado CSS cuando se creó?
@@ -64,6 +67,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Apuntes de la clase:**
+  <br/>
+  <img width="250" src="https://i.ibb.co/WsnhN20/IMG-2399.jpg" alt="notas clase 2">
+  <img width="250" src="https://i.ibb.co/jbWK1JD/IMG-2400.jpg" alt="notas clase 2">
+  <img width="250" src="https://i.ibb.co/tc1Q1vg/IMG-2401.jpg" alt="notas clase 2">
+  <img width="250" src="https://i.ibb.co/gwZ4rv9/IMG-2402.jpg" alt="notas clase 2">
+  <img width="250" src="https://i.ibb.co/nRZxWhb/IMG-2403.jpg" alt="notas clase 2">
 </details>
 
 ## 3. Limitaciones de CSS y el problema de los elementos flotantes
@@ -77,6 +88,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [Columnas Falsas](https://alistapart.com/article/fauxcolumns/)
   * [Propuesta de Responsive Design](https://alistapart.com/article/responsive-web-design/)
   * [Código de las cards flotantes](https://github.com/abookapart/new-css-layout-code/blob/master/chapter1/float3.html)
+  
+  **Apuntes de la clase:**
+  <br/>
+  <img width="250" src="https://i.ibb.co/fXBYstC/IMG-2404.jpg" alt="notas clase 3">
+  <img width="250" src="https://i.ibb.co/16CMgxR/IMG-2405.jpg" alt="notas clase 3">
+  <img width="250" src="https://i.ibb.co/vhfhLpY/IMG-2406.jpg" alt="notas clase 3">
+  <img width="250" src="https://i.ibb.co/wgpbPyr/IMG-2407.jpg" alt="notas clase 3">
+  <img width="250" src="https://i.ibb.co/HKryz3N/IMG-2408.jpg" alt="notas clase 3">
 </details>
 
 ## 4. Herramientas que nos han facilitado el camino
@@ -85,6 +104,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  **Apuntes de la clase:**
+  <br/>
+  <img width="250" src="https://i.ibb.co/GVDfG4y/IMG-2409.jpg" alt="notas clase 4">
+  <img width="250" src="https://i.ibb.co/pZCf4sr/IMG-2410.jpg" alt="notas clase 4">
+  <img width="250" src="https://i.ibb.co/vcw9z9S/IMG-2411.jpg" alt="notas clase 4">
+  <img width="250" src="https://i.ibb.co/jf75MTV/IMG-2412.jpg" alt="notas clase 4">
+  <img width="250" src="https://i.ibb.co/XYffGPB/IMG-2413.jpg" alt="notas clase 4">
 </details>
 
 ## 5. ¿CSS Grid es una idea nueva? La evolución de la especificación
@@ -98,6 +125,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   * [CSS Advanced Layout Module (2007)](https://www.w3.org/TR/2007/WD-css3-layout-20070809/)
   * [Giving Content Priority with CSS3 Grid Layout (By Rachel Andrew in 2012)](https://24ways.org/2012/css3-grid-layout/)
   * [Establishing Web Standards](https://medium.com/net-magazine/establishing-web-standards-12f7f4308982)
+  
+  **Apuntes de la clase:**
+  <br/>
+  <img width="250" src="https://i.ibb.co/QkwxWLH/IMG-2414.jpg" alt="notas clase 5">
 </details>
 
 ## 6. ¿Qué significa Grid para CSS?
