@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/vd3nL7Z/CSS-2020-By-teffcode.png" alt="CSS 2020">
 
-Hola :) En este repositorio encontrarás toda la documentación que utilizamos en los cursos de CSS Grid y Diseño Web con CSS Grid y Flexbox. Adicional, también encontrarás los slides para que puedas estudiar con mucho más detalle (pero, son sólo para ti 🤫).
+Hola :) En este repositorio encontrarás toda la documentación que utilizamos en los cursos de CSS Grid y Diseño Web con CSS Grid y Flexbox. Adicional, también encontrarás algunos apuntes de las clases y los slides para que puedas estudiar con mucho más detalle (pero, son sólo para ti 🤫).
 
 > Para comenzar, solo queremos recordarte que este contenido es exclusivo de Platzi 🎉
 
