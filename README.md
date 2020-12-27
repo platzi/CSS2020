@@ -375,6 +375,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [Código](https://codepen.io/teffcode_/pen/BaLWgEj?editors=1100)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/st0gYS0/IMG-2388-2.jpg" alt="manos al código">
 </details>
 
 ## 23. Ubicación + Reto
@@ -409,6 +413,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <br/>
   
   * [Código](https://codepen.io/teffcode_/pen/poEeXmr)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/w4V6RBK/IMG-2389-2.jpg" alt="manos al código">
 </details>
 
 ## 26. ¡Manos al código! Fase de ubicación y alineamiento (Parte 2)
@@ -420,6 +428,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   
   * [Código para iniciar](https://codepen.io/teffcode_/pen/XWjMLwq?editors=1100)
   * [Código final](https://codepen.io/teffcode_/pen/yLabgPV?editors=1100)
+  
+  **Apuntes de la clase:**
+  
+  <img width="500" src="https://i.ibb.co/yVWJhXB/IMG-2390-2.jpg" alt="manos al código">
 </details>
 
 ## 27. Diseño responsivo sin media queries + Reto
