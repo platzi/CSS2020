@@ -278,6 +278,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 13. Dibujemos con CSS + Reto
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPwqvMuoM/HEntrkxBUyi9yl8ALkuiNQ/view?utm_content=DAEPwqvMuoM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -304,6 +306,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 14. Grid y las relaciones padre e hijos inmediatos + Quíz
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEW0j7Iqqk/4wH6BM4jurjRl9rba-spuQ/view?utm_content=DAEW0j7Iqqk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -315,6 +319,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 15. Lines, tracks, cell, area, gutters, grid axis, grid row, grid column + Reto
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEW0pSs00Q/MnL5x4rrSaC7U5F_-1fWQQ/view?utm_content=DAEW0pSs00Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -322,6 +328,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 16. ¡Iniciemos nuestro proyecto! Fase de creatividad e identificación de elementos
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQWdX-R6U/UNyZt4I2GoerlNT43617rA/watch?utm_content=DAEQWdX-R6U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -353,6 +361,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 17. Creando nuestro contenedor: ¿display: grid o display: inline-grid?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPfFLZaPQ/KCwKnf-IVl5Rinrh1eGSCA/view?utm_content=DAEPfFLZaPQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -362,6 +372,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 18. Creando filas, columnas y espaciado + Reto
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPC3ca3BQ/Dldv9zjYSIE0LBb-BzEQng/view?utm_content=DAEPC3ca3BQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -374,6 +386,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 19. Alineamiento + Quíz
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPfCLFLTM/wthWMlp0-8TWRlSbb_hhlg/watch?utm_content=DAEPfCLFLTM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -391,6 +405,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 20. Generación automática de tracks + Quíz
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPfzybVv4/CpeBRCEEO0stZ8Ivj1Ovfg/view?utm_content=DAEPfzybVv4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -405,6 +421,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 21. Funciones: repeat(), minmax() y fit-content() + Quíz
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPgUjpekM/vSqGiNbCVGEsz-X1Wu2uxw/view?utm_content=DAEPgUjpekM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -423,6 +441,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 22. ¡Manos al código! Fase de construcción de la grid principal de nuestro proyecto
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPhfyIeP0/eeIEaOeZkFHP3osqh69P3g/view?utm_content=DAEPhfyIeP0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -437,6 +457,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 23. Ubicación + Reto
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPg4rXU0g/Dsqsl-wmfJYpnJD--BUNsQ/view?utm_content=DAEPg4rXU0g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -449,6 +471,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 24. Alineamiento + Quíz
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPhN3s25E/dGrYaKR7Sbeyak9YhutA7A/view?utm_content=DAEPhN3s25E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -460,6 +484,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 25. ¡Manos al código! Fase de ubicación y alineamiento (Parte 1)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPhfyIeP0/eeIEaOeZkFHP3osqh69P3g/view?utm_content=DAEPhfyIeP0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -474,6 +500,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 26. ¡Manos al código! Fase de ubicación y alineamiento (Parte 2)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPhfyIeP0/eeIEaOeZkFHP3osqh69P3g/view?utm_content=DAEPhfyIeP0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -490,6 +518,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 27. Diseño responsivo sin media queries + Reto
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQblSFlg0/fee3yNTklUUEH9TZdYL9aA/watch?utm_content=DAEQblSFlg0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -501,6 +531,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 28. ¿Vendrá algo más para esta especificación?
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQcFeFq8M/r5Y96ODgGbsnDoYPtJ--4Q/view?utm_content=DAEQcFeFq8M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
