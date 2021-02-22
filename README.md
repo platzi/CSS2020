@@ -576,6 +576,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 1. Todo sobre el diseño de páginas web acaba de cambiar
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQFpuHLco/nb-w5JtFmlNT8jtGGPsVmw/view?utm_content=DAEQFpuHLco&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -592,6 +594,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 3. Flujo normal del documento: Display block, inline e inline-block
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQhmEDz9Q/h2_nIuVWdck7j14uBhcz2Q/view?utm_content=DAEQhmEDz9Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -599,6 +603,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 4. Contextos de formato: Formato de Contexto de Bloque (BFC)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQhjn-ddU/E28ZQQKmU5t6nC2QS8mbSw/view?utm_content=DAEQhjn-ddU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -610,6 +616,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 5. Posicionamiento + Dinámica: ¿Cómo se vería?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQhmoxgqg/yApl4zSE9ricNZ4u9qNnYA/view?utm_content=DAEQhmoxgqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -617,6 +625,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 6. Diferencias entre Flexbox y CSS Grid
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQipHoNps/2pZaCBcJ6umcGrs43cNLIg/watch?utm_content=DAEQipHoNps&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -631,6 +641,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 7. Similitudes entre Flexbox y CSS Grid
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQigPkB18/WsdAshZB7AcMUsEfjF9Drg/watch?utm_content=DAEQigPkB18&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -638,6 +650,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 8. ¿Puedo trabajar con Flexbox y CSS Grid al tiempo?
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQiq8ZCCk/8AFV-DehwDyKfK4rvn-8mA/view?utm_content=DAEQiq8ZCCk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -648,6 +662,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 9. Dinámica: ¿Qué usarías? (Parte 1)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEP4guzK4E/YOOvFsNswxXdG83x7O4LNQ/view?utm_content=DAEP4guzK4E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -661,6 +677,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 10. Dinámica: ¿Qué usarías? (Parte 2) + Reto
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPy-G9uoY/wiPhWBmw2HDph6XhKMDwTw/view?utm_content=DAEPy-G9uoY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -676,6 +694,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 11. ¿Cuándo usar Flexbox y cuándo usar CSS Grid?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQjFaoxe4/v9SlBO-AWQ0XmbI8AocYPw/view?utm_content=DAEQjFaoxe4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -689,6 +709,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 12. ¿Qué son los Modern CSS Layouts?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEP5ILaOpw/r1x0uwDErPaAOHMEVWB-RA/watch?utm_content=DAEP5ILaOpw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -701,9 +723,14 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
   <br/>
+  
+  * [Here is the collection of 91 patterns](https://csslayout.io/patterns/)
+  * [Relearn CSS layout](https://every-layout.dev/)
 </details>
 
 ## 14. Layouts: Super Centered, The Deconstructed Pancake, Sidebar Says, Pancake Stack, Classic Holy Grail Layout
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQjtR-Zk8/aw3k0--GkkF5lwbNUdNP1A/watch?utm_content=DAEQjtR-Zk8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -715,6 +742,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 15. Layouts: 12-Span Grid, RAM (Repeat, Auto, MinMax), Line Up, Clamping My Style, Respect for Aspect
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQjtR-Zk8/aw3k0--GkkF5lwbNUdNP1A/watch?utm_content=DAEQjtR-Zk8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -725,6 +754,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 16. Dinámica: No puedo dejar de ver
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEP495rHJU/htRUusEMyRvBTexxztk6Ow/view?utm_content=DAEP495rHJU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -734,6 +765,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 17. Design System y detalles visuales a tener en cuenta
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQjsUUkws/60UJcBNwhiQDQQ1sW5Vb-w/view?utm_content=DAEQjsUUkws&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -754,6 +787,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 18. Tendencias de diseño UI/UX: Fase de inspiración y creatividad
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQnJdEqpM/51ypRyMSnIjL0hquHoXu4A/view?utm_content=DAEQnJdEqpM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -770,6 +805,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 19. Wireframes y comunicación visual simple, intuitiva y atractiva
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQnFZTeMo/MK4oKIC18ZQE9_QT5JzVrg/view?utm_content=DAEQnFZTeMo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -780,6 +817,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 20. Figma para devs: Auto Layout y Neumorphism (Parte 1)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQo_o1hv8/1Nb6OZt78mj7Ha7Jm4TgEw/view?utm_content=DAEQo_o1hv8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -800,6 +839,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 21. Figma para devs: Auto Layout y Neumorphism (Parte 2)
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQo_o1hv8/1Nb6OZt78mj7Ha7Jm4TgEw/view?utm_content=DAEQo_o1hv8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -818,6 +859,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 22. Primeros pasos y estructura inicial
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQppONI-Y/qDjhUSJY7rxBO8mc2uI99A/view?utm_content=DAEQppONI-Y&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -846,6 +889,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 25. CSS Subgrid
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQpysfGjs/lRJPDQkNjqkLM7Z3BxXFyQ/view?utm_content=DAEQpysfGjs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -853,6 +898,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 26. Native CSS Massonry Layout
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQpysfGjs/lRJPDQkNjqkLM7Z3BxXFyQ/view?utm_content=DAEQpysfGjs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -874,6 +921,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 28. Nosotros y el futuro de la web: Tips para seguir aprendiendo y mantenerse al día
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQqIapf1s/ROxFyghXOVkKAw8UV69JkA/view?utm_content=DAEQqIapf1s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
