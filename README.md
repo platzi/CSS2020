@@ -40,6 +40,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 1. Tips para que lleves tus conocimientos de CSS a otro nivel + Quices
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQFfekgdU/0jutcPgG2ibsiVm_JON5yg/view?utm_content=DAEQFfekgdU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
   
@@ -62,6 +64,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 2. ¿Cómo fue pensado CSS cuando se creó?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQE_Q6irY/D-8q5MwKUdXQxdFsaCoNjg/view?utm_content=DAEQE_Q6irY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -77,6 +81,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 3. Limitaciones de CSS y el problema de los elementos flotantes
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQKtu0pgw/0_OUYnbKV5OCsD7Tek97bw/view?utm_content=DAEQKtu0pgw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -99,6 +105,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 4. Herramientas que nos han facilitado el camino
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQFDCuuD8/fLp8L0dB1yRslr8m3pMPMA/view?utm_content=DAEQFDCuuD8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -114,6 +122,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 5. ¿CSS Grid es una idea nueva? La evolución de la especificación
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQN8YEp4w/v1Z88OOvAodndxddKS4BBQ/view?utm_content=DAEQN8YEp4w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -132,6 +142,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 6. ¿Qué significa Grid para CSS?
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEQOVE8yQU/-irgEI-4MpOp4FHYqJmlZg/view?utm_content=DAEQOVE8yQU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -141,6 +153,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 7. Técnicas de alineamiento antes de CSS Grid (Parte 1)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPvl0m0Zs/o4ZuT2i7lVDw3QX1yLpDUg/view?utm_content=DAEPvl0m0Zs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -165,6 +179,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 8. Técnicas de alineamiento antes de CSS Grid (Parte 2)
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPv-8YXhU/f-h1db2rteK-JrSBlWQCmQ/view?utm_content=DAEPv-8YXhU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -191,6 +207,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 9. Pros y contras de las técnicas de alineamiento antes de CSS Grid
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPx_rxzag/bZs1WSOkdrs4i9brspUiTA/view?utm_content=DAEPx_rxzag&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -200,6 +218,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 10. Modos de escritura y ejes de alineamiento + Reto
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPwdLmsWI/GfZVmQN4tivhrfzEMRSjkw/view?utm_content=DAEPwdLmsWI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
@@ -222,6 +242,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 
 ## 11. Propiedades físicas y lógicas en CSS + Quíz
 
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPwadrvmg/ldmhPG0L9qzRRhjTaYO9KQ/view?utm_content=DAEPwadrvmg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
 
@@ -232,6 +254,8 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 </details>
 
 ## 12. Técnicas de alineamiento con Flexbox
+
+**Slides:** [Click aquí](https://www.canva.com/design/DAEPwlhbCcE/TI_WagM_hIe6RoURIJOJeA/view?utm_content=DAEPwlhbCcE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
