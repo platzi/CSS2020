@@ -38,6 +38,10 @@ Hola :) En este repositorio encontrarás toda la documentación que utilizamos e
 27. [Diseño responsivo sin media queries + Reto](#27-diseño-responsivo-sin-media-queries--reto)
 28. [¿Vendrá algo más para esta especificación?](#28-vendrá-algo-más-para-esta-especificación)
 
+## Apuntes de estudiantes 😍
+
+* Harrinson Quintero 👉🏼 [Sus notas](https://www.notion.so/Notas-Curso-de-CSS-Grid-Layout-aab64c07f7bf41ce88a93ac6178f69f5) y [su Twitter](https://twitter.com/Jhaqual)
+
 ## 1. Tips para que lleves tus conocimientos de CSS a otro nivel + Quices
 
 **Slides:** [Click aquí](https://www.canva.com/design/DAEQFfekgdU/0jutcPgG2ibsiVm_JON5yg/view?utm_content=DAEQFfekgdU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
